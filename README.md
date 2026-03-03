@@ -81,7 +81,7 @@ Use the `space` sub-config if you want 2 space indentation instead of tabs:
 }
 ```
 
-You can also mix it with a [XO](https://github.com/xojs/xo) sub-config:
+You can also mix it with a [XO](https://github.com/Unity-Billal-mesloub/xo) sub-config:
 
 ```json
 {
@@ -120,12 +120,13 @@ $ yarn add --dev xo eslint-config-xo-vue eslint-plugin-vue
 
 ## Known Issues
 
-Hoping you'll report any you find, checkout [github issues](https://github.com/ChocPanda/eslint-config-xo-vue/issues)
+Hoping you'll report any you find, checkout [github issues](https://github.com/Unity-Billal-mesloub/eslint-config-xo-vue/issues)
 
 ## Related
 
-- [eslint-config-xo](https://github.com/xojs/eslint-config-xo) - ESLint shareable config for XO
-- [XO](https://github.com/xojs/xo)
+- [XO](https://github.com/Unity-Billal-mesloub/xo)
+ - ESLint shareable config for XO
+
 
 ## Contributions
 

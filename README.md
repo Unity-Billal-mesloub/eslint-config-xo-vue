@@ -10,16 +10,16 @@
   <a href="https://www.npmjs.com/package/eslint-config-xo-vue" alt="npm">
     <img alt="npm" src="https://img.shields.io/npm/v/eslint-config-xo-vue.svg?label=npm%40latest&style=popout">
   </a>
-  <a href="https://github.com/ChocPanda/eslint-config-xo-vue/blob/master/LICENSE" alt="license">
+  <a href="https://github.com/Unity-Billal-mesloub/eslint-config-xo-vue/blob/main/LICENSE" alt="license">
     <img src="https://img.shields.io/github/license/ChocPanda/eslint-config-xo-vue.svg?style=popout"/>
   </a>
-  <a href="https://github.com/xojs/xo" alt="XO code style">
+  <a href="https://github.com/Unity-Billal-mesloub/xo" alt="XO code style">
     <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg"/>
   </a>
   <a href="http://commitizen.github.io/cz-cli/" alt="Commitizen friendly" >
     <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg"/>
   </a>
-  <a href="https://github.com/semantic-release/semantic-release" alt="semantic-release">
+  <a href="https://github.com/Unity-Billal-mesloub/semantic-release" alt="semantic-release">
     <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg"/>
   </a>
   <a href="https://greenkeeper.io/" alt="Greenkeeper badge" >

@@ -1,8 +1,8 @@
 # eslint-config-xo-vue
 
 <p align="center">
-  <a href="https://travis-ci.com/ChocPanda/eslint-config-xo-vue" alt="Travis-CI">
-    <img src="https://travis-ci.com/ChocPanda/eslint-config-xo-vue.svg?branch=master"/>
+  <a href="https://travis-ci.com/Unity-Billal-mesloub/eslint-config-xo-vue" alt="Travis-CI">
+    <img src="https://travis-ci.com/Unity-Billal-mesloub/eslint-config-xo-vue.svg?branch=master"/>
   </a>
   <a href="https://www.npmjs.com/package/eslint-config-xo-vue" alt="npm">
     <img alt="npm" src="https://img.shields.io/npm/v/eslint-config-xo-vue.svg?label=npm%40latest&style=popout">

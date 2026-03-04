@@ -17,7 +17,7 @@ Please note we have a [code of conduct](#code-of-conduct), please follow it in a
 5. Update the README.md with details of the changes.
 6. Ensure you're using our [convential commits](./README.md#conventional-commits) for your commit messages
 7. Versioning and tagging are handled by Circle ci so no need to manually do anything there for the release
-8. [RAISE THE PR](https://github.com/Unity-Billal-mesloub/eslint-config-xo-vue/compare)
+8. [RAISE THE PR](https://github.com/Unity-Billal-mesloub/eslint-config-xo-vue/)
 9. You may merge the Pull Request in once you have the sign-off, or if you do not have permission to do that just poke the author.
 
 ## Code of Conduct

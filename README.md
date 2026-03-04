@@ -4,9 +4,6 @@
   <a href="https://travis-ci.com/ChocPanda/eslint-config-xo-vue" alt="Travis-CI">
     <img src="https://travis-ci.com/ChocPanda/eslint-config-xo-vue.svg?branch=master"/>
   </a>
-  <a href="https://david-dm.org/ChocPanda/eslint-config-xo-vue" alt="dependencies">
-    <img src="https://david-dm.org/ChocPanda/eslint-config-xo-vue.svg"/>
-  </a>
   <a href="https://www.npmjs.com/package/eslint-config-xo-vue" alt="npm">
     <img alt="npm" src="https://img.shields.io/npm/v/eslint-config-xo-vue.svg?label=npm%40latest&style=popout">
   </a>
